@@ -1,0 +1,98 @@
+\documentclass{tccv}
+\usepackage[english]{babel}
+
+\begin{document}
+
+\part{Jose Pablo Flores}
+
+\section{Work experience}
+
+\begin{eventlist}
+
+\item{Feb 2017 -- Present}
+     {Edgewater Markets}
+     {Chief Developer}
+     
+Sr. Developer and technology manager in a multinational company where my main functions where to 
+created a full stack web application for trading forex and crypto currencies using 
+new technologies. Platform currently used mainly in Chile, New York, Mexico and London.
+
+\item{March 2017 -- January 2017}
+     {Anunna}
+     {Sr. Developer}
+     
+Create automated strategies for equity trading. Data analysis and real time alerts for trading equities in the U.S
+
+\item{March 2015 -- March 2017}
+     {Hewlett Packard}
+     {Internal Audit}
+     
+Verify the correct management in financial and automated processes and filter big data information for directives.
+
+\item{February 2014 -- March 2015}
+     {Arist Medical Education}
+     {Developer Jr.}
+     
+Create a web application to analyze the school students developments and the sales team operation management.
+
+\item{March 2012 -- September 2013}
+     {Black Coffee Gallery}
+     {Marketing Intership}
+
+Creation of marketing strategies in social media applications for the growth of the online presence
+of the company.
+
+\end{eventlist}
+
+\personal
+    [jflores.dev]
+    {Mexico City}
+    {+52 (33) 3453-2107}
+    {jop0693@gmail.com}
+
+\section{Education}
+
+\begin{yearlist}
+
+\item[Bachelor's Degree]{2012 -- 2017}
+     {Financial Engineering}
+     {ITESO, Gdl, Mexico}
+
+\item[Momentum Analysis in Forex]{2018}
+     {Trading Seminary}
+     {Madrid, Spain}
+
+\item[Pristine Seminary]{2018}
+     {Technical Analysis for Trading Stocks}
+     {Mexico City, Mexico}
+
+\item[FCE]{2016}
+     {Cambridge Certificate}
+     {Jalisco, Mexico}
+
+\end{yearlist}
+
+\section{Communication skills}
+
+\begin{factlist}
+\item{Spanish}{Native speaker}
+\item{English}{Advanced}
+\end{factlist}
+
+\section{Software skills}
+
+\begin{factlist}
+
+\item{Languages}
+     {JavaScript, Python, Ruby, Bash, Go, R, SQL}
+
+\item{Frameworks}
+     {NodeJs, ReactJS, Ruby on Rails, MySQL}
+
+\item{Technologies}
+     {Docker, Jenkins, k8s, AWS, KVM}
+
+\end{factlist}
+
+\end{document}
+
